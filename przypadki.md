@@ -88,8 +88,7 @@ Klient z istniejącym kontem w bezpieczny sposób może zalogować się do aplik
 - użytkownik jest w formularzu logowania (po kliknięciu przycisku „Zaloguj się”)
 
 **Dane testowe:**
-- email: test@apple.pl
-- hasło: haslo123zle
+- email: test@icloud.com
   
 **Kroki:**
 1.	Kliknij ikonę Apple w formularzu logowania
